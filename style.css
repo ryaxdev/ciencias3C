@@ -2,7 +2,7 @@
 
 *{
     margin: 0;
-    padding: 0;
+    padding: 3;
     box-sizing: border-box;
     text-decoration: none;
     list-style: none;
@@ -128,7 +128,7 @@ body{
 
 .informacion-1 p{
     font-size: 16px;
-    color: #81818181;
+    color: white;
     margin-bottom: 35px;
 }
 
